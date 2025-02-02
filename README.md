@@ -30,6 +30,12 @@ Run the ASCII art script:
 curl -fsSL https://raw.githubusercontent.com/aloshy-ai/branding/main/ascii.sh | bash
 ```
 
+Or 
+
+```bash
+curl -fsSL https://ascii.aloshy.ai | bash
+```
+
 ## License
 
 Logo assets are licensed under the [Creative Commons Zero (CC0) license](https://creativecommons.org/publicdomain/zero/1.0/).
