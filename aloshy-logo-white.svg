@@ -1,9 +1,1 @@
-<svg width="384" height="64" xmlns="http://www.w3.org/2000/svg">
-
- <g>
-  <title>Layer 1</title>
-  <rect id="svg_1" fill="#ffffff" height="100%" width="100%"/>
-  <text id="svg_2" fill="#ffffff" text-anchor="middle" dominant-baseline="bottom" y="25" x="50%" font-size="20" font-family="Courier New">▄▀█ █░░ █▀█ █▀ █░█ █▄█ ░ ▄▀█ █</text>
-  <text id="svg_3" fill="#ffffff" text-anchor="middle" dominant-baseline="top" y="50" x="50%" font-size="20" font-family="Courier New">█▀█ █▄▄ █▄█ ▄█ █▀█ ░█░ ▄ █▀█ █</text>
- </g>
-</svg>
+<svg viewBox="0 0 384 64" xmlns="http://www.w3.org/2000/svg"><rect width="100%" height="100%" fill="transparent"/><text font-family="Courier New" font-size="20" x="50%" y="25" dominant-baseline="bottom" text-anchor="middle" fill="white">▄▀█ █░░ █▀█ █▀ █░█ █▄█ ░ ▄▀█ █</text><text font-family="Courier New" font-size="20" x="50%" y="50" dominant-baseline="top" text-anchor="middle" fill="white">█▀█ █▄▄ █▄█ ▄█ █▀█ ░█░ ▄ █▀█ █</text></svg>
